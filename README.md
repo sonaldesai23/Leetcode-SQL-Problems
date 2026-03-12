@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0197-rising-temperature](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0584-find-customer-referee) |

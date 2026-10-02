@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0197-rising-temperature](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/0584-find-customer-referee) |
@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/main/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sonaldesai23/Leetcode-SQL-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
